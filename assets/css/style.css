@@ -1,0 +1,111 @@
+.gp-jumbotron{
+    margin-top: 116px;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    animation-name: fade;
+    animation-duration: 3s;
+}
+
+
+.gp-returnal{
+    margin-top: 200px;
+    width: 300px;
+
+}
+
+.gp-button-color{
+    background-color: #cd3d0f;
+    border-color: #cd3d0f;
+}
+
+.gp-azure{
+    color: #3b92d8;
+}
+
+.gp-jumbo-2{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.gp-bg-dark{
+    background-color: #1f1f1f;
+}
+
+.gp-margin-negative{
+    margin-top: -16px;
+}
+
+.gp-bg-gray{
+    background-color: #adabaa;
+}
+
+.gp-ps-margin-2{
+    margin-top: 120px;
+}
+
+.gp-ps-plus-button{
+    background-color: #d9dadc !important;
+    border-color: #adabaa !important;
+}
+
+.gp-bg-ps-now{
+    background-color: #161c3b;
+}
+
+.gp-container-custom{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+.gp-globe{
+    width: 18px;
+}
+
+.gp-ul{
+    list-style: none;
+}
+
+.gp-a{
+    text-decoration: none;
+    color: white;
+}
+
+.gp-sie{
+    width: 150px;
+}
+
+.gp-rounded{
+    border-radius: 18px;
+}
+
+
+
+
+.gp-bg-black{
+    background-color: black;
+}
+
+.gp-logo{
+    width: 100px;
+}
+
+.gp-nav-color{
+    color: black !important;
+}
+
+.gp-nav-color:hover{
+    color: #3b92d8 !important;
+}
+
+.gp-svg-lens{
+    width: 24px;
+    cursor: pointer;
+}
+
+
+
